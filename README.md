@@ -28,7 +28,7 @@ Para ejecutar el programa principal, se deberá utilizar desde la consola el com
 * SALIDA. El tercer argumento, < salida.txt > es opcional. De no indicarse explicitamente, se generará una salida con el nombre 'parsing_output.txt'.
 Tanto en este caso como si se brinda un nombre, los archivos de salida se almacenan en el directorio 'outputs'.
 
-# testgenerator
+# Testgenerator
 
 Dentro del directorio del proyecto se encuentra un archivo test_generator.c. Tras ser compilado como indica el apartado de compilación, crea el ejecutable
 testgenerator. Este programa es utilizado desde la consola con el comando
