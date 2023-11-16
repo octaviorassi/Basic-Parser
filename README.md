@@ -59,5 +59,5 @@ Se ejecuta por consola tras su compilación con make tests simplemente con el co
 
 # Informe
 
-Una explicación mas detallada de la estructura de datos y algoritmo propuestos puede encontrarse en el archivo informe.pdf dentro de este mismo directorio.
+Una explicación mas detallada de la estructura de datos y algoritmo propuestos puede encontrarse en el archivo informe.pdf dentro de este mismo repositorio.
 Allí tambien se encuentra un detalle sobre los casos de prueba adjuntados y el generador de tests.
