@@ -1,0 +1,14 @@
+quien deposito dolares recibira dolares
+quien deposito dolares recibira dolares | 6 chars skipped | Errors: xxxxxx
+quien deposito dolares recibira dolares | 5 chars skipped | Errors: qddrd
+quien deposito dolares recibira dolares | 5 chars skipped | Errors: nosas
+| 15 chars skipped | Errors: nohaynadavalido
+quien
+deposito
+dolares
+recibira
+dolares
+
+| 23 chars skipped | Errors: arribahubounalineavacia
+| 30 chars skipped | Errors: quiedepositdolarerecibirdolare
+quien deposito dolares recibira dolares | 30 chars skipped | Errors: quiedepositdolarerecibirdolare
